@@ -1,0 +1,16 @@
+{
+  "name": "appmongo2",
+  "version": "1.0.0",
+  "description": "Proyecto de mongo y nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juan Ramon figueroa cueto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.11"
+  }
+}
